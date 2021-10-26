@@ -1,1 +1,9 @@
+trybe-skills-updates
 - Java Script
+======
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+master
